@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/deploy-weatherapp/static/css/main.d4f84524.chunk.css",
+    "main.js": "/deploy-weatherapp/static/js/main.13fc3460.chunk.js",
+    "main.js.map": "/deploy-weatherapp/static/js/main.13fc3460.chunk.js.map",
+    "runtime-main.js": "/deploy-weatherapp/static/js/runtime-main.bd86d738.js",
+    "runtime-main.js.map": "/deploy-weatherapp/static/js/runtime-main.bd86d738.js.map",
+    "static/js/2.54b43725.chunk.js": "/deploy-weatherapp/static/js/2.54b43725.chunk.js",
+    "static/js/2.54b43725.chunk.js.map": "/deploy-weatherapp/static/js/2.54b43725.chunk.js.map",
+    "index.html": "/deploy-weatherapp/index.html",
+    "precache-manifest.d5bdefcb7f100e7e83d52f237be49c4d.js": "/deploy-weatherapp/precache-manifest.d5bdefcb7f100e7e83d52f237be49c4d.js",
+    "service-worker.js": "/deploy-weatherapp/service-worker.js",
+    "static/css/main.d4f84524.chunk.css.map": "/deploy-weatherapp/static/css/main.d4f84524.chunk.css.map",
+    "static/js/2.54b43725.chunk.js.LICENSE.txt": "/deploy-weatherapp/static/js/2.54b43725.chunk.js.LICENSE.txt",
+    "static/media/1.JPG": "/deploy-weatherapp/static/media/1.58ede5d0.JPG",
+    "static/media/clearSky.JPG": "/deploy-weatherapp/static/media/clearSky.f9b2dd38.JPG",
+    "static/media/cloud1.png": "/deploy-weatherapp/static/media/cloud1.73007ce8.png",
+    "static/media/cloud2.png": "/deploy-weatherapp/static/media/cloud2.9bc856b8.png",
+    "static/media/light.png": "/deploy-weatherapp/static/media/light.f6f7e6ef.png",
+    "static/media/mist.png": "/deploy-weatherapp/static/media/mist.d4056aa2.png",
+    "static/media/moon.png": "/deploy-weatherapp/static/media/moon.d86bda4e.png",
+    "static/media/nightCloud.JPG": "/deploy-weatherapp/static/media/nightCloud.b7c6226c.JPG",
+    "static/media/rain.png": "/deploy-weatherapp/static/media/rain.b94efa1d.png",
+    "static/media/rain.JPG": "/deploy-weatherapp/static/media/rain.eefa3aa5.JPG",
+    "static/media/snow.JPG": "/deploy-weatherapp/static/media/snow.04c1bfc4.JPG",
+    "static/media/stars.png": "/deploy-weatherapp/static/media/stars.6494ab5b.png",
+    "static/media/sun.png": "/deploy-weatherapp/static/media/sun.80c5520e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd86d738.js",
+    "static/js/2.54b43725.chunk.js",
+    "static/css/main.d4f84524.chunk.css",
+    "static/js/main.13fc3460.chunk.js"
+  ]
+}
